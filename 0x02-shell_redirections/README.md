@@ -1,1 +1,1 @@
-A script that print hello world
+Shell, Input and Output Redirection
