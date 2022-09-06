@@ -1,2 +1,1 @@
-echo hello world
-displays a confused smiley
+Shell, I/O Redirection
